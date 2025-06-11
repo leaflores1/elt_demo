@@ -1,0 +1,4 @@
+salesorderid,customerid,orderdate,territoryid,status,subtotal
+1001,1,2024-06-01,Norte,Shipped,1500
+1002,2,2024-06-05,Sur,Pending,900
+1003,3,2024-06-07,Centro,Shipped,1100

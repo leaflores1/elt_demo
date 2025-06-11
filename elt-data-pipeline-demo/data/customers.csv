@@ -1,0 +1,4 @@
+customerid,firstname,lastname,emailoptin,territory
+1,Juan,Pérez,true,Norte
+2,Ana,Gómez,false,Sur
+3,Leo,Fernández,true,Centro
